@@ -1,0 +1,1 @@
+Exemplo de como funciona o tratamento e exceções e usando o e.printStackTrace();
